@@ -1,0 +1,13 @@
+.contact{
+    width: 200px;
+    background-color: gray;
+    padding: 10px;
+    border: solid 2px black;
+    border-radius: 10px;
+    color: black;
+}
+
+.name{
+    font-size: 18px;
+    font-weight: bold;
+}
